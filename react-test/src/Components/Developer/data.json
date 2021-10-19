@@ -1,0 +1,327 @@
+[
+    {
+       "rank":1,
+       "username":"twpayne",
+       "name":"Tom Payne",
+       "url":"https://github.com/twpayne",
+       "avatar":"https://avatars.githubusercontent.com/u/6942?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"chezmoi",
+          "description":"Manage your dotfiles across multiple diverse machines, securely.",
+          "url":"https://github.com/twpayne/chezmoi"
+       }
+    },
+    {
+       "rank":2,
+       "username":"asim",
+       "name":"Asim Aslam",
+       "url":"https://github.com/asim",
+       "avatar":"https://avatars.githubusercontent.com/u/17530?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"go-micro",
+          "description":"A Go framework for distributed systems development",
+          "url":"https://github.com/asim/go-micro"
+       }
+    },
+    {
+       "rank":3,
+       "username":"pepelsbey",
+       "name":"Vadim Makeev",
+       "url":"https://github.com/pepelsbey",
+       "avatar":"https://avatars.githubusercontent.com/u/105274?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"playground",
+          "description":"Демо для видеоблога",
+          "url":"https://github.com/pepelsbey/playground"
+       }
+    },
+    {
+       "rank":4,
+       "username":"jakearchibald",
+       "name":"Jake Archibald",
+       "url":"https://github.com/jakearchibald",
+       "avatar":"https://avatars.githubusercontent.com/u/93594?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"idb",
+          "description":"IndexedDB, but with promises",
+          "url":"https://github.com/jakearchibald/idb"
+       }
+    },
+    {
+       "rank":5,
+       "username":"Shougo",
+       "name":"Shougo",
+       "url":"https://github.com/Shougo",
+       "avatar":"https://avatars.githubusercontent.com/u/41495?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"ddc.vim",
+          "description":"Dark deno-powered completion framework for neovim/Vim8",
+          "url":"https://github.com/Shougo/ddc.vim"
+       }
+    },
+    {
+       "rank":6,
+       "username":"JanDeDobbeleer",
+       "name":"Jan De Dobbeleer",
+       "url":"https://github.com/JanDeDobbeleer",
+       "avatar":"https://avatars.githubusercontent.com/u/2492783?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"oh-my-posh",
+          "description":"A prompt theme engine for any shell.",
+          "url":"https://github.com/JanDeDobbeleer/oh-my-posh"
+       }
+    },
+    {
+       "rank":7,
+       "username":"quasilyte",
+       "name":"Iskander (Alex) Sharipov",
+       "url":"https://github.com/quasilyte",
+       "avatar":"https://avatars.githubusercontent.com/u/6286655?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"go-ruleguard",
+          "description":"Define and run pattern-based custom linting rules.",
+          "url":"https://github.com/quasilyte/go-ruleguard"
+       }
+    },
+    {
+       "rank":8,
+       "username":"jeremylong",
+       "name":"Jeremy Long",
+       "url":"https://github.com/jeremylong",
+       "avatar":"https://avatars.githubusercontent.com/u/862914?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"DependencyCheck",
+          "description":"OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+          "url":"https://github.com/jeremylong/DependencyCheck"
+       }
+    },
+    {
+       "rank":9,
+       "username":"trask",
+       "name":"Trask Stalnaker",
+       "url":"https://github.com/trask",
+       "avatar":"https://avatars.githubusercontent.com/u/218610?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":null,
+          "description":null,
+          "url":null
+       }
+    },
+    {
+       "rank":10,
+       "username":"rmosolgo",
+       "name":"Robert Mosolgo",
+       "url":"https://github.com/rmosolgo",
+       "avatar":"https://avatars.githubusercontent.com/u/2231765?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"graphql-ruby",
+          "description":"Ruby implementation of GraphQL",
+          "url":"https://github.com/rmosolgo/graphql-ruby"
+       }
+    },
+    {
+       "rank":11,
+       "username":"danielroe",
+       "name":"Daniel Roe",
+       "url":"https://github.com/danielroe",
+       "avatar":"https://avatars.githubusercontent.com/u/28706372?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"stream-vue",
+          "description":"Vue component for Cloudflare Stream.",
+          "url":"https://github.com/danielroe/stream-vue"
+       }
+    },
+    {
+       "rank":12,
+       "username":"ErikEJ",
+       "name":"Erik Ejlskov Jensen",
+       "url":"https://github.com/ErikEJ",
+       "avatar":"https://avatars.githubusercontent.com/u/4169187?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"EFCorePowerTools",
+          "description":"Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core",
+          "url":"https://github.com/ErikEJ/EFCorePowerTools"
+       }
+    },
+    {
+       "rank":13,
+       "username":"arvidn",
+       "name":"Arvid Norberg",
+       "url":"https://github.com/arvidn",
+       "avatar":"https://avatars.githubusercontent.com/u/661450?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"libtorrent",
+          "description":"an efficient feature complete C++ bittorrent implementation",
+          "url":"https://github.com/arvidn/libtorrent"
+       }
+    },
+    {
+       "rank":14,
+       "username":"asottile",
+       "name":"Anthony Sottile",
+       "url":"https://github.com/asottile",
+       "avatar":"https://avatars.githubusercontent.com/u/1810591?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"pyupgrade",
+          "description":"A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+          "url":"https://github.com/asottile/pyupgrade"
+       }
+    },
+    {
+       "rank":15,
+       "username":"07akioni",
+       "name":"07akioni",
+       "url":"https://github.com/07akioni",
+       "avatar":"https://avatars.githubusercontent.com/u/18677354?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"xicons",
+          "description":"SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)",
+          "url":"https://github.com/07akioni/xicons"
+       }
+    },
+    {
+       "rank":16,
+       "username":"mrousavy",
+       "name":"Marc Rousavy",
+       "url":"https://github.com/mrousavy",
+       "avatar":"https://avatars.githubusercontent.com/u/15199031?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"react-native-mmkv",
+          "description":"⚡️The fastest key/value storage for React Native. ~30x faster than AsyncStorage!",
+          "url":"https://github.com/mrousavy/react-native-mmkv"
+       }
+    },
+    {
+       "rank":17,
+       "username":"satya164",
+       "name":"Satyajit Sahoo",
+       "url":"https://github.com/satya164",
+       "avatar":"https://avatars.githubusercontent.com/u/1174278?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"react-native-tab-view",
+          "description":"A cross-platform Tab View component for React Native",
+          "url":"https://github.com/satya164/react-native-tab-view"
+       }
+    },
+    {
+       "rank":18,
+       "username":"jquense",
+       "name":"Jason Quense",
+       "url":"https://github.com/jquense",
+       "avatar":"https://avatars.githubusercontent.com/u/339286?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"yup",
+          "description":"Dead simple Object schema validation",
+          "url":"https://github.com/jquense/yup"
+       }
+    },
+    {
+       "rank":19,
+       "username":"ahmetb",
+       "name":"Ahmet Alp Balkan",
+       "url":"https://github.com/ahmetb",
+       "avatar":"https://avatars.githubusercontent.com/u/159209?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"kubectx",
+          "description":"Faster way to switch between clusters and namespaces in kubectl",
+          "url":"https://github.com/ahmetb/kubectx"
+       }
+    },
+    {
+       "rank":20,
+       "username":"mcollina",
+       "name":"Matteo Collina",
+       "url":"https://github.com/mcollina",
+       "avatar":"https://avatars.githubusercontent.com/u/52195?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"autocannon",
+          "description":"fast HTTP/1.1 benchmarking tool written in Node.js",
+          "url":"https://github.com/mcollina/autocannon"
+       }
+    },
+    {
+       "rank":21,
+       "username":"ericholscher",
+       "name":"Eric Holscher",
+       "url":"https://github.com/ericholscher",
+       "avatar":"https://avatars.githubusercontent.com/u/25510?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":null,
+          "description":null,
+          "url":null
+       }
+    },
+    {
+       "rank":22,
+       "username":"TooTallNate",
+       "name":"Nathan Rajlich",
+       "url":"https://github.com/TooTallNate",
+       "avatar":"https://avatars.githubusercontent.com/u/71256?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"Java-WebSocket",
+          "description":"A barebones WebSocket client and server implementation written in 100% Java.",
+          "url":"https://github.com/TooTallNate/Java-WebSocket"
+       }
+    },
+    {
+       "rank":23,
+       "username":"sameersbn",
+       "name":"Sameer Naik",
+       "url":"https://github.com/sameersbn",
+       "avatar":"https://avatars.githubusercontent.com/u/410147?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"docker-gitlab",
+          "description":"Dockerized GitLab",
+          "url":"https://github.com/sameersbn/docker-gitlab"
+       }
+    },
+    {
+       "rank":24,
+       "username":"isacikgoz",
+       "name":"Ibrahim Serdar Acikgoz",
+       "url":"https://github.com/isacikgoz",
+       "avatar":"https://avatars.githubusercontent.com/u/2153367?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"tldr",
+          "description":"fast and interactive tldr client written with go",
+          "url":"https://github.com/isacikgoz/tldr"
+       }
+    },
+    {
+       "rank":25,
+       "username":"IjzerenHein",
+       "name":"Hein Rutjes",
+       "url":"https://github.com/IjzerenHein",
+       "avatar":"https://avatars.githubusercontent.com/u/6184593?s=96&v=4",
+       "since":"daily",
+       "popularRepository":{
+          "repositoryName":"react-navigation-shared-element",
+          "description":"React Navigation bindings for react-native-shared-element💫",
+          "url":"https://github.com/IjzerenHein/react-navigation-shared-element"
+       }
+    }
+ ]

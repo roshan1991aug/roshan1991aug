@@ -1,0 +1,80 @@
+.repo__wrapper { 
+    padding: 13px;
+    border: 1px solid #f1f1f13d;
+    margin: 0 20px 20px;
+    border-top: none;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+
+h5.title a {
+    text-decoration: none;
+}
+h5.title a:hover {
+    text-decoration: underline;
+}
+
+.repo__wrapper .row {
+    border-bottom: 1px solid #f1f1f13d;
+    padding: 12px 0;
+}
+
+.repo__wrapper .row:last-child {
+    border-bottom: none;
+}
+
+.repo__wrapper .repo_details {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.repo__wrapper .repo_details li { 
+    margin-right: 15px;
+}
+
+.repo__wrapper .repo_details li a {
+    text-decoration: none !important;
+    color: #fff;
+}
+.repo__wrapper .repo_details li a:hover {color: #0d6efd;}
+
+.repo_right_block {
+    text-align: right;
+}
+
+.builtUserIcon {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.repo__wrapper .repo_details li.built_item {
+    margin-right: 4px;
+    position: relative;
+    cursor: pointer;
+}
+.repo__wrapper i {
+    font-size: 13px;
+    position: relative;
+    top: -2px;
+}
+.repo_right_block button {
+    background-color: #09161c;
+    color: #fff;
+    overflow: hidden;
+}
+/* .repo__wrapper .repo_details li a:hover + .builtItem__tooltip {
+    position: absolute;
+    top: 20px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    z-index: 99;
+    width: 200px;
+    height: 200px;
+}  */
+
+.repo_right_block label {
+    font-size: 14px;
+}

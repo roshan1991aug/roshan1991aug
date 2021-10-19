@@ -1,0 +1,55 @@
+.developer__wrapper {
+    padding: 13px;
+    border: 1px solid #f1f1f13d;
+    margin: 0 20px 20px;
+    border-top: none;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.developer__wrapper .row {
+    border-bottom: 1px solid #f1f1f13d;
+    padding: 12px 0;
+}
+.developer__wrapper .row:last-child {
+    border-bottom: none;
+}
+.developer__wrapper h5.title {
+    color: #fff;
+    display: flex;
+    align-items: center
+}
+
+.developer__wrapper h5.title span {
+    font-size: 14px;
+}
+.developer__wrapper h5.title img {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    margin: 0 15px;
+}
+.developer__wrapper h5.title label, .popular__repo h5 {
+    font-size: 22px;
+    line-height: 25px;
+}
+.fa-hotjar {
+    color: coral;
+    margin-right: 5px;
+}
+label.username, .developer__wrapper h5.title label span:hover, .popular__repo h5 {
+    color: #0969da;
+    cursor: pointer;
+}
+.developer__wrapper h5.title label span {
+    display: table-cell;
+    color: #fff;
+}
+
+.popular_wrapper p {
+    font-size: 14px;
+    margin: 0;
+}
+.popular_wrapper > p {
+    font-size: 12px;
+}
