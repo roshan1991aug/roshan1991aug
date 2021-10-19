@@ -11,7 +11,10 @@
 h5.title a {
     text-decoration: none;
 }
-h5.title a:hover {
+h5.title {
+    color: #0969da;
+}
+h5.title:hover {
     text-decoration: underline;
 }
 

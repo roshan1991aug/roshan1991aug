@@ -39,7 +39,12 @@ function Repositories() {
         const repositories = repoJSONData.map(repo => { return <Row key= {repo.rank}>
                     
                     <Col xs ="12" md lg="9">
-                        <h5 className="title"><Link to={repo.url} ><span>{repo.username}</span> / {repo.repositoryName}</Link></h5>
+                        <h5 className="title"
+                        onClick={ (e) => { 
+                            e.preventDefault();
+                            window.location.href=(repo.url)
+                       }} 
+                       ><span>{repo.username}</span> / {repo.repositoryName}</h5>
                         <p>{repo.description}</p>
                         
                     </Col>
