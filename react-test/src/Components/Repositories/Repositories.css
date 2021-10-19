@@ -16,6 +16,7 @@ h5.title {
 }
 h5.title:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .repo__wrapper .row {

@@ -20,6 +20,10 @@
     align-items: center
 }
 
+.developer__wrapper h5.title label:hover, .popular__repo h5:hover {
+    text-decoration: underline;
+    text-decoration-color: #0969da;
+}
 .developer__wrapper h5.title span {
     font-size: 14px;
 }
